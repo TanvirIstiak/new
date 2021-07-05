@@ -1,0 +1,28 @@
+.box1{
+  height: auto;
+  width: 200px;
+  background: orange;
+  padding: 10px;
+  flex: 1 1;
+}
+
+.box2 {
+  height: auto;
+  width: 200px;
+  background: steelblue;
+  padding: 10px;
+  flex: 1 1;
+}
+
+.box3 {
+  height: auto;
+  width: 200px;
+  background: yellow;
+  padding: 10px;
+  flex: 1 1;
+}
+
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+}
